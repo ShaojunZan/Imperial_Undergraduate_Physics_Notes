@@ -69,7 +69,7 @@ This repository contains my personal notes and summaries from various courses, l
 ## 📝 Notes Format & Purpose
 
 - All notes are typeset using **LaTeX** and stored in organized folders by course and topic.
-- They are not guaranteed to be complete or error-free.
+- They are intended for academic sharing only, and are not guaranteed to be complete or error-free.
 - I welcome any feedback, suggestions, or corrections!
 
 ---
