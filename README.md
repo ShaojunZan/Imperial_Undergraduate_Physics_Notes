@@ -55,6 +55,17 @@ This repository contains my personal notes and summaries from various courses, l
 
 ---
 
+### 📚 Miscellaneous
+
+- **Calculus: Volumes of Revolution**  
+  This should belong to part of the **Mechanics: Functions** course, but I am personally so satisfied with the visualizations I made (back in year 1). So I made this specific section a separate file.😄
+
+- **AP Economics**  
+  This is the file rewritten in **LaTeX** from my notes in high school. Additionally, I included a part of my studies in a summer school back in grade 11: **Introduction to Fixed Income Securities**, lectured by Prof. Martin Cherkes from Princeton University.  
+  Important reminder: The front cover is from the library of overleaf LaTeX templates.
+
+---
+
 ## 📝 Notes Format & Purpose
 
 - All notes are typeset using **LaTeX** and stored in organized folders by course and topic.
