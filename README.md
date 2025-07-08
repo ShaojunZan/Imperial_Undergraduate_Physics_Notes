@@ -23,7 +23,7 @@ This repository contains my personal notes and summaries from various courses, l
   Lecturer: Prof. Steve Warren (currently Prof. Martin McCall)  
   Important reminder: My notes are also heavily based on Prof. Warren's hand-written notes. This is my second full-scale trial for LaTeX (and mainly its plotting).
 
-- **Mathematical Analysis** - notes of the course of **PHYS40007 - Mathematical Analysis 2022-2023**
+- **Mathematical Analysis** - notes of the course of **PHYS40007 - Mathematical Analysis 2022-2023**  
   Lecturer: Prof. Jonathan Halliwell
 
 ---
