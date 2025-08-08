@@ -56,6 +56,9 @@ This repository contains my personal notes and summaries from various courses, l
   Lecturer: Prof. Rupert Oulton  
   Important reminder: Most graphs are copied from the lecture notes. Some other graphs are from **The Oxford Solid State Basics** by Professor Steven H.
 
+- **Foundations of Quantum Mechanics Notes** - from **PHYS60011 - Foundations of Quantum Mechanics 2024-2025**  
+  Lecturer: Prof. Jerome Gauntlett
+
 ---
 
 ### 📚 Miscellaneous
